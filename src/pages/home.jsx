@@ -28,12 +28,10 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black"
               >
-                Vasa ideja je nasa prica.
+                Božić ograde
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-                This is a simple example of a Landing Page you can build using
-                Material Tailwind. It features multiple components based on the
-                Tailwind CSS and Material Design by Google.
+              Višedecenijsko iskustvo iz oblasti proizvodnje i ugradnje Ograda, Krovopokrivačkih radova, Gradjevinskih limarija, Kasetnih sistema, Ventilacija...
               </Typography>
             </div>
           </div>

@@ -12,7 +12,7 @@ export function Krov() {
   return (
     <>
       <section className="relative block h-[50vh]">
-        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/background-1.jpg')] bg-cover bg-center" />
+        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/krovopokrivacki/cover1.jpg')] bg-cover bg-center" />
         <div className="absolute top-0 h-full w-full bg-black/75 bg-cover bg-center" />
       </section>
       <section className="relative bg-blue-gray-50/50 px-4 py-16">
@@ -21,7 +21,7 @@ export function Krov() {
             <div className="px-6">
               <div className="my-8 text-center">
                 <Typography variant="h2" color="blue-gray" className="mb-2">
-                  KROVOPOKRIVACKI RADOVI
+                  KROVOPOKRIVAČKI RADOVI
                 </Typography>
               </div>
 
@@ -29,11 +29,7 @@ export function Krov() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
+                    Pokrivanje krovova ravnim limom po sistemu G falca, trapeznim limom, profilisanim limovima u obliku crepa, krovnim panelima i PVC membranom.
                     </Typography>
                   </div>
                 </div>
@@ -49,19 +45,7 @@ export function Krov() {
                   Sprovodimo vaše ideje u dela
                 </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                Jedna od glavnih karakteristika limenih pokrivača je velika pokrivna moć koju ovi materijali poseduju uz niske troškove. Krovovi pokriveni limom su visokog kvaliteta i dolaze u različitim profilima i bojama, te stoga predstavljaju idealno kvalitativno i estetsko rešenje kako za industrijske, tako i za stambene objekte. Pored toga, ove materijale odlikuje i velika čvrstina, dug period eksploatacije, jednostavna ugradnja, velika otpornost u slučaju požara, kao i mala težina i stoga ne zahtevaju komplikovanu podkonstrukciju.
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -94,22 +78,16 @@ export function Krov() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
-                </Typography>
+IZVODIMO KROVOPOKRIVAČKE RADOVE                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                – ravnim limom po sistemu stojećeg G falca
+– lučno pokrivanje limom po sistemu stojećeg G falca
+– profilisanim limom u obliku crepa
+– GERARD i KORRA metalnim krovnim pločama u obliku crepa
+– trapeznim limovima različitih profila
+– lučnim trapeznim limovima
+– panelima
+– PVC membranama vodećih proizvođača
                 </Typography>
               </div>
             </div>

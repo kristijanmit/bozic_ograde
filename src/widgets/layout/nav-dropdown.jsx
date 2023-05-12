@@ -63,7 +63,7 @@ export default function Example() {
                     "block px-4 py-2 text-sm"
                   )}
                 >
-                  Krovopokrivacki radovi
+                  Krovopokrivački radovi
                 </a>
               )}
             </Menu.Item>
