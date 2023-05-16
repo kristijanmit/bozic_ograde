@@ -7,12 +7,14 @@ import {
   CardBody,
 } from "@material-tailwind/react";
 import { Footer } from "@/widgets/layout";
+import FCounter from "@/widgets/layout/fake-counter";
+import Quote from "@/widgets/layout/quote";
 
 export function Basta() {
   return (
     <>
       <section className="relative block h-[50vh]">
-        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/background-1.jpg')] bg-cover bg-center" />
+        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/a_home_bcg.jpg')] bg-cover bg-center" />
         <div className="absolute top-0 h-full w-full bg-black/75 bg-cover bg-center" />
       </section>
       <section className="relative bg-blue-gray-50/50 px-4 py-16">
@@ -115,6 +117,8 @@ export function Basta() {
             </div>
           </div>
         </div>
+        <FCounter />
+        <Quote />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />

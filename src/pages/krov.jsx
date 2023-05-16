@@ -7,6 +7,8 @@ import {
   CardBody,
 } from "@material-tailwind/react";
 import { Footer } from "@/widgets/layout";
+import FCounter from "@/widgets/layout/fake-counter";
+import Quote from "@/widgets/layout/quote";
 
 export function Krov() {
   return (
@@ -29,7 +31,9 @@ export function Krov() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
-                    Pokrivanje krovova ravnim limom po sistemu G falca, trapeznim limom, profilisanim limovima u obliku crepa, krovnim panelima i PVC membranom.
+                      Pokrivanje krovova ravnim limom po sistemu G falca,
+                      trapeznim limom, profilisanim limovima u obliku crepa,
+                      krovnim panelima i PVC membranom.
                     </Typography>
                   </div>
                 </div>
@@ -45,7 +49,15 @@ export function Krov() {
                   Sprovodimo vaše ideje u dela
                 </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                Jedna od glavnih karakteristika limenih pokrivača je velika pokrivna moć koju ovi materijali poseduju uz niske troškove. Krovovi pokriveni limom su visokog kvaliteta i dolaze u različitim profilima i bojama, te stoga predstavljaju idealno kvalitativno i estetsko rešenje kako za industrijske, tako i za stambene objekte. Pored toga, ove materijale odlikuje i velika čvrstina, dug period eksploatacije, jednostavna ugradnja, velika otpornost u slučaju požara, kao i mala težina i stoga ne zahtevaju komplikovanu podkonstrukciju.
+                  Jedna od glavnih karakteristika limenih pokrivača je velika
+                  pokrivna moć koju ovi materijali poseduju uz niske troškove.
+                  Krovovi pokriveni limom su visokog kvaliteta i dolaze u
+                  različitim profilima i bojama, te stoga predstavljaju idealno
+                  kvalitativno i estetsko rešenje kako za industrijske, tako i
+                  za stambene objekte. Pored toga, ove materijale odlikuje i
+                  velika čvrstina, dug period eksploatacije, jednostavna
+                  ugradnja, velika otpornost u slučaju požara, kao i mala težina
+                  i stoga ne zahtevaju komplikovanu podkonstrukciju.
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -78,21 +90,22 @@ export function Krov() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-IZVODIMO KROVOPOKRIVAČKE RADOVE                </Typography>
+                  IZVODIMO KROVOPOKRIVAČKE RADOVE{" "}
+                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                – ravnim limom po sistemu stojećeg G falca
-– lučno pokrivanje limom po sistemu stojećeg G falca
-– profilisanim limom u obliku crepa
-– GERARD i KORRA metalnim krovnim pločama u obliku crepa
-– trapeznim limovima različitih profila
-– lučnim trapeznim limovima
-– panelima
-– PVC membranama vodećih proizvođača
+                  – ravnim limom po sistemu stojećeg G falca – lučno pokrivanje
+                  limom po sistemu stojećeg G falca – profilisanim limom u
+                  obliku crepa – GERARD i KORRA metalnim krovnim pločama u
+                  obliku crepa – trapeznim limovima različitih profila – lučnim
+                  trapeznim limovima – panelima – PVC membranama vodećih
+                  proizvođača
                 </Typography>
               </div>
             </div>
           </div>
         </div>
+        <FCounter />
+        <Quote />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />
