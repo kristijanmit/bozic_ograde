@@ -7,12 +7,12 @@ import Ventilacije from "./pages/ventilacije";
 
 export const routes = [
   {
-    name: "Pocetna",
+    name: "Početna",
     path: "/home",
     element: <Home />,
   },
   {
-    name: "Bastenski Namestaj",
+    name: "Baštenski Nameštaj",
     path: "/bastenskinamestaj",
     element: <Basta />,
   },
@@ -29,7 +29,7 @@ export const routes = [
     drop: true,
   },
   {
-    name: "Krovopokrivacki radovi",
+    name: "Krovopokrivački radovi",
     path: "/krovopokrivaci",
     element: <Krov />,
     drop: true,

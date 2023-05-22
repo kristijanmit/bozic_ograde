@@ -29,11 +29,7 @@ export function Kasete() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
+                    Zahvaljujući svojim brojnim prednostima, kasetni sistem predstavlja idealno rešenje za oblaganje fasada, stubova, plafona i ostalih ravnih spoljnih i unutrašnjih površina.
                     </Typography>
                   </div>
                 </div>
@@ -46,23 +42,9 @@ export function Kasete() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
-                </Typography>
+KASETNI SISTEMI                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
-                </Typography>
+                Moderan dizajn, visok kvalitet, otpornost na vremenske uslove samo su neki od razloga za primenu kasetnog sistema. Zahvaljujući svojim brojnim prednostima, kasetni sistem predstavlja idealno rešenje za oblaganje fasada, stubova, plafona i ostalih ravnih spoljnih i unutrašnjih površina. Kasetna fasadna obloga se montira na čeličnu ili drvenu podkonstrukciju, te sam lim nema direktnog dodira sa podlogom                </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
                 <Card className="shadow-lg shadow-gray-500/10">
@@ -94,22 +76,16 @@ export function Kasete() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
-                </Typography>
+PREDNOSTI UGRADNJE TIM KASETNIH SISTEMA                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                – skriveni sistem fiksiranja
+– brza ugradnja
+– moderan dizajn
+– široka paleta boja i dezena
+– jednostavno održavanje
+– izrada elemenata u različitim dimenzijama
+– dugotrajnost
+– otpornost na različite vremenske uslove
                 </Typography>
               </div>
             </div>

@@ -12,7 +12,7 @@ export function Limarija() {
   return (
     <>
       <section className="relative block h-[50vh]">
-        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/background-1.jpg')] bg-cover bg-center" />
+        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/gradjevinska/cover.jpg')] bg-cover bg-center" />
         <div className="absolute top-0 h-full w-full bg-black/75 bg-cover bg-center" />
       </section>
       <section className="relative bg-blue-gray-50/50 px-4 py-16">
@@ -29,12 +29,7 @@ export function Limarija() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
-                    </Typography>
+                    Izrada i ugradnja zidnih i ugaonih opšiva, opšiva prozora, snegobrana, okapnica, oluka, vetar lajsni i ostalih proizvoda građevinske limarije.</Typography>
                   </div>
                 </div>
               </div>
@@ -46,22 +41,10 @@ export function Limarija() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
-                </Typography>
+GRAĐEVINSKA LIMARIJA                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                Bavimo se izradom i ugradnjom zidnih i ugaonih opšiva, opšiva prozora, snegobrana, okapnica, oluka, vetar lajsni i ostalih proizvoda građevinske limarije. Pored pomenutog, vršimo izradu i montažu različitih vrsta komlikovanih i složenih elemenata koji se ne mogu naći u širokoj proizvodnji limarije. Stojimo Vam na raspolaganju za sve vaše želje i zahteve iz oblasti građevinske limarije.
+
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -94,22 +77,15 @@ export function Limarija() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
+                  IZVODIMO RADOVE GRAĐEVINSKE LIMARIJE NA
                 </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                -industrijskim objektima
+-stambenim objektima
+-crkvama
+-silosima
+-hladnjačama
+-ostalim objektima posebne namene
                 </Typography>
               </div>
             </div>

@@ -12,7 +12,7 @@ export function Profile() {
   return (
     <>
       <section className="relative block h-[50vh]">
-        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/background-1.jpg')] bg-cover bg-center" />
+        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/Ograde/ograde1.jpg')] bg-cover bg-center" />
         <div className="absolute top-0 h-full w-full bg-black/75 bg-cover bg-center" />
       </section>
       <section className="relative bg-blue-gray-50/50 px-4 py-16">
@@ -29,11 +29,9 @@ export function Profile() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
+                    Limene plastificirane ograde su novitet na tržištu Srbije, koje po svojim karakteristikama i odnosom cene i kvaliteta prednjače u odnosu na slične sisteme. Ograde se izrađuju u širokom spektru palete boja i dimenzija u zavisnosti od želje klijenata. Moderan dizajn, dug životni vek, lako održavanje kao i veliki izbor modela čine  ograde idealnim rešenjem bilo da je reč o stambenim ili industrijskim objektima.
+
+
                     </Typography>
                   </div>
                 </div>
@@ -46,22 +44,19 @@ export function Profile() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
+                  Prednosti ugradnje Božić ogradnih sistema
                 </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
+                – jednostavno održavanje
+– otpornost na različite vremenske uslove
+– nerđajući materijali
+– brza montaža
+– mogućnost izbora dimenzija elemenata ograde, konkretno širine same daske
+– veliki izbor boja iz RAL palete, kao i imitacija drveta
+– skriveni sistem fiksiranja
                   <br />
                   <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                 
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -69,7 +64,7 @@ export function Profile() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/ograde/ograde2.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -82,7 +77,7 @@ export function Profile() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/ograde/ograde1.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -104,12 +99,7 @@ export function Profile() {
                   potrebe.
                   <br />
                   <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                
                 </Typography>
               </div>
             </div>

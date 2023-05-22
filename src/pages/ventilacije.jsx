@@ -12,7 +12,7 @@ export function Ventilacije() {
   return (
     <>
       <section className="relative block h-[50vh]">
-        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/background-1.jpg')] bg-cover bg-center" />
+        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/Ventilacija/cover2.jpg')] bg-cover bg-center" />
         <div className="absolute top-0 h-full w-full bg-black/75 bg-cover bg-center" />
       </section>
       <section className="relative bg-blue-gray-50/50 px-4 py-16">
@@ -21,7 +21,7 @@ export function Ventilacije() {
             <div className="px-6">
               <div className="my-8 text-center">
                 <Typography variant="h2" color="blue-gray" className="mb-2">
-                  VENTILACIJE
+                  VENTILACIJA
                 </Typography>
               </div>
 
@@ -29,11 +29,7 @@ export function Ventilacije() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
+                    Proizvodnja i montaža ventilacionih kanala od pocinkovanog lima, spiro kanala, ugradnja sistema klimatizacije i kuhinjskih EKO hauba.
                     </Typography>
                   </div>
                 </div>
@@ -46,22 +42,9 @@ export function Ventilacije() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
-                </Typography>
+VENTILACIJA  BOŽIĆ           </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                Firma Božić bavi se proizvodnjom i montažom ventilacionih kanala od pocinkovanog lima, spiro kanala, kao i ugradnjom sistema klimatizacije. Oprema koju koristimo proizvedena je od strane renomiranih kompanija čime se garantuje kvalitet i dugovečnost ventilacionih sistema. Naš tim u potpunosti je osposobljen bilo da se radovi izvode na visini ili na nižim objektima.
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -69,7 +52,7 @@ export function Ventilacije() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/Ventilacija/ventilacija1.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -82,7 +65,7 @@ export function Ventilacije() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/Ventilacija/ventilacija3.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -94,22 +77,16 @@ export function Ventilacije() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
-                </Typography>
+OBJEKTI NA KOJIMA IZVODIMO RADOVE VENTILACIJE I KLIMATIZACIJE                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
-                  <br />
-                  <br />
-                  Kombinacija naše visoke opremljenosti, produktivnosti,
-                  konkurentnih cena i poštovanja rokova, omogućava nam da
-                  pružimo kvalitetnu uslugu investitorima, bez obzira na obim
-                  posla. Naš moto je da svaki posao obavimo na najbolji mogući
-                  način i da ispoštujemo sve zahteve naših klijenata. Možete
-                  računati na nas kao pouzdanog partnera u vašim projektima.
+                – klubovi
+– kafići i picerije
+– restorani
+– sale za proslave
+– profesionalne kuhinje
+– podzemne garaže
+– industrijski i stambeni objekti
+– objekti u mesnoj industriji
                 </Typography>
               </div>
             </div>
