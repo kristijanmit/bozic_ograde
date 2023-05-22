@@ -7,6 +7,8 @@ import {
   CardBody,
 } from "@material-tailwind/react";
 import { Footer } from "@/widgets/layout";
+import FCounter from "@/widgets/layout/fake-counter";
+import Quote from "@/widgets/layout/quote";
 
 export function Limarija() {
   return (
@@ -29,7 +31,14 @@ export function Limarija() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
+<<<<<<< HEAD
                     Izrada i ugradnja zidnih i ugaonih opšiva, opšiva prozora, snegobrana, okapnica, oluka, vetar lajsni i ostalih proizvoda građevinske limarije.</Typography>
+=======
+                      Izrada i ugradnja zidnih i ugaonih opšiva, opšiva prozora,
+                      snegobrana, okapnica, oluka, vetar lajsni i ostalih
+                      proizvoda građevinske limarije.
+                    </Typography>
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                   </div>
                 </div>
               </div>
@@ -41,10 +50,23 @@ export function Limarija() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
+<<<<<<< HEAD
 GRAĐEVINSKA LIMARIJA                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
                 Bavimo se izradom i ugradnjom zidnih i ugaonih opšiva, opšiva prozora, snegobrana, okapnica, oluka, vetar lajsni i ostalih proizvoda građevinske limarije. Pored pomenutog, vršimo izradu i montažu različitih vrsta komlikovanih i složenih elemenata koji se ne mogu naći u širokoj proizvodnji limarije. Stojimo Vam na raspolaganju za sve vaše želje i zahteve iz oblasti građevinske limarije.
 
+=======
+                  GRAĐEVINSKA LIMARIJA{" "}
+                </Typography>
+                <Typography className="mb-8 font-normal text-blue-gray-500">
+                  Bavimo se izradom i ugradnjom zidnih i ugaonih opšiva, opšiva
+                  prozora, snegobrana, okapnica, oluka, vetar lajsni i ostalih
+                  proizvoda građevinske limarije. Pored pomenutog, vršimo izradu
+                  i montažu različitih vrsta komlikovanih i složenih elemenata
+                  koji se ne mogu naći u širokoj proizvodnji limarije. Stojimo
+                  Vam na raspolaganju za sve vaše želje i zahteve iz oblasti
+                  građevinske limarije.
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -80,17 +102,24 @@ GRAĐEVINSKA LIMARIJA                </Typography>
                   IZVODIMO RADOVE GRAĐEVINSKE LIMARIJE NA
                 </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
+<<<<<<< HEAD
                 -industrijskim objektima
 -stambenim objektima
 -crkvama
 -silosima
 -hladnjačama
 -ostalim objektima posebne namene
+=======
+                  -industrijskim objektima -stambenim objektima -crkvama
+                  -silosima -hladnjačama -ostalim objektima posebne namene
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                 </Typography>
               </div>
             </div>
           </div>
         </div>
+        <FCounter />
+        <Quote />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />

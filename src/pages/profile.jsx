@@ -7,6 +7,8 @@ import {
   CardBody,
 } from "@material-tailwind/react";
 import { Footer } from "@/widgets/layout";
+import FCounter from "@/widgets/layout/fake-counter";
+import Quote from "@/widgets/layout/quote";
 
 export function Profile() {
   return (
@@ -29,9 +31,20 @@ export function Profile() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
+<<<<<<< HEAD
                     Limene plastificirane ograde su novitet na tržištu Srbije, koje po svojim karakteristikama i odnosom cene i kvaliteta prednjače u odnosu na slične sisteme. Ograde se izrađuju u širokom spektru palete boja i dimenzija u zavisnosti od želje klijenata. Moderan dizajn, dug životni vek, lako održavanje kao i veliki izbor modela čine  ograde idealnim rešenjem bilo da je reč o stambenim ili industrijskim objektima.
 
 
+=======
+                      Limene plastificirane ograde su novitet na tržištu Srbije,
+                      koje po svojim karakteristikama i odnosom cene i kvaliteta
+                      prednjače u odnosu na slične sisteme. Ograde se izrađuju u
+                      širokom spektru palete boja i dimenzija u zavisnosti od
+                      želje klijenata. Moderan dizajn, dug životni vek, lako
+                      održavanje kao i veliki izbor modela čine ograde idealnim
+                      rešenjem bilo da je reč o stambenim ili industrijskim
+                      objektima.
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                     </Typography>
                   </div>
                 </div>
@@ -47,6 +60,7 @@ export function Profile() {
                   Prednosti ugradnje Božić ogradnih sistema
                 </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
+<<<<<<< HEAD
                 – jednostavno održavanje
 – otpornost na različite vremenske uslove
 – nerđajući materijali
@@ -57,6 +71,15 @@ export function Profile() {
                   <br />
                   <br />
                  
+=======
+                  – jednostavno održavanje – otpornost na različite vremenske
+                  uslove – nerđajući materijali – brza montaža – mogućnost
+                  izbora dimenzija elemenata ograde, konkretno širine same daske
+                  – veliki izbor boja iz RAL palete, kao i imitacija drveta –
+                  skriveni sistem fiksiranja
+                  <br />
+                  <br />
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -99,12 +122,17 @@ export function Profile() {
                   potrebe.
                   <br />
                   <br />
+<<<<<<< HEAD
                 
+=======
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                 </Typography>
               </div>
             </div>
           </div>
         </div>
+        <FCounter />
+        <Quote />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />

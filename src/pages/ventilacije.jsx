@@ -7,6 +7,9 @@ import {
   CardBody,
 } from "@material-tailwind/react";
 import { Footer } from "@/widgets/layout";
+import FCounter from "@/widgets/layout/fake-counter";
+import Quote from "@/widgets/layout/quote";
+import Galery from "@/widgets/layout/galery";
 
 export function Ventilacije() {
   return (
@@ -29,7 +32,13 @@ export function Ventilacije() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
+<<<<<<< HEAD
                     Proizvodnja i montaža ventilacionih kanala od pocinkovanog lima, spiro kanala, ugradnja sistema klimatizacije i kuhinjskih EKO hauba.
+=======
+                      Proizvodnja i montaža ventilacionih kanala od pocinkovanog
+                      lima, spiro kanala, ugradnja sistema klimatizacije i
+                      kuhinjskih EKO hauba.
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                     </Typography>
                   </div>
                 </div>
@@ -42,9 +51,22 @@ export function Ventilacije() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
+<<<<<<< HEAD
 VENTILACIJA  BOŽIĆ           </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
                 Firma Božić bavi se proizvodnjom i montažom ventilacionih kanala od pocinkovanog lima, spiro kanala, kao i ugradnjom sistema klimatizacije. Oprema koju koristimo proizvedena je od strane renomiranih kompanija čime se garantuje kvalitet i dugovečnost ventilacionih sistema. Naš tim u potpunosti je osposobljen bilo da se radovi izvode na visini ili na nižim objektima.
+=======
+                  VENTILACIJA BOŽIĆ{" "}
+                </Typography>
+                <Typography className="mb-8 font-normal text-blue-gray-500">
+                  Firma Božić bavi se proizvodnjom i montažom ventilacionih
+                  kanala od pocinkovanog lima, spiro kanala, kao i ugradnjom
+                  sistema klimatizacije. Oprema koju koristimo proizvedena je od
+                  strane renomiranih kompanija čime se garantuje kvalitet i
+                  dugovečnost ventilacionih sistema. Naš tim u potpunosti je
+                  osposobljen bilo da se radovi izvode na visini ili na nižim
+                  objektima.
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                 </Typography>
               </div>
               <div className="mx-auto mb-8 mt-24 flex w-full justify-center px-4 md:w-5/12 lg:mt-0">
@@ -77,6 +99,7 @@ VENTILACIJA  BOŽIĆ           </Typography>
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
+<<<<<<< HEAD
 OBJEKTI NA KOJIMA IZVODIMO RADOVE VENTILACIJE I KLIMATIZACIJE                </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
                 – klubovi
@@ -87,11 +110,22 @@ OBJEKTI NA KOJIMA IZVODIMO RADOVE VENTILACIJE I KLIMATIZACIJE                </T
 – podzemne garaže
 – industrijski i stambeni objekti
 – objekti u mesnoj industriji
+=======
+                  OBJEKTI NA KOJIMA IZVODIMO RADOVE VENTILACIJE I KLIMATIZACIJE{" "}
+                </Typography>
+                <Typography className="mb-8 font-normal text-blue-gray-500">
+                  – klubovi – kafići i picerije – restorani – sale za proslave –
+                  profesionalne kuhinje – podzemne garaže – industrijski i
+                  stambeni objekti – objekti u mesnoj industriji
+>>>>>>> e47db5510019b5413c4ffd6be5fdbb99f1bccff5
                 </Typography>
               </div>
             </div>
           </div>
         </div>
+        <FCounter />
+        <Quote />
+        <Galery />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />

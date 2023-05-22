@@ -88,11 +88,6 @@ Footer.defaultProps = {
       path: "https://www.facebook.com/",
     },
     {
-      color: "light-blue",
-      name: "twitter",
-      path: "https://www.twitter.com/",
-    },
-    {
       color: "purple",
       name: "instagram",
       path: "https://www.instagram.com/",

@@ -13,6 +13,8 @@ import { UsersIcon } from "@heroicons/react/24/solid";
 import { PageTitle, Footer } from "@/widgets/layout";
 import { FeatureCard, TeamCard } from "@/widgets/cards";
 import { featuresData, teamData, contactData } from "@/data";
+import FCounter from "@/widgets/layout/fake-counter";
+import Contact from "@/widgets/layout/contact";
 
 export function Home() {
   return (
@@ -31,7 +33,9 @@ export function Home() {
                 Božić ograde
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-              Višedecenijsko iskustvo iz oblasti proizvodnje i ugradnje Ograda, Krovopokrivačkih radova, Gradjevinskih limarija, Kasetnih sistema, Ventilacija...
+                This is a simple example of a Landing Page you can build using
+                Material Tailwind. It features multiple components based on the
+                Tailwind CSS and Material Design by Google.
               </Typography>
             </div>
           </div>
@@ -55,6 +59,7 @@ export function Home() {
               )
             )}
           </div>
+          <FCounter />
           <div className="mt-32 flex flex-wrap items-center">
             <div className="mx-auto -mt-8 w-full px-4 md:w-5/12">
               <div className="mb-6 inline-flex h-16 w-16 items-center justify-center rounded-full bg-white p-3 text-center shadow-lg">
@@ -169,19 +174,7 @@ export function Home() {
               </Card>
             ))}
           </div>
-          <PageTitle heading="Zelite da radite sa nama?">
-            Pozovite i javljamo se u narednih 24h.
-          </PageTitle>
-          <form className="mx-auto mt-12 max-w-3xl text-center">
-            <div className="mb-8 flex gap-8">
-              <Input variant="standard" size="lg" label="Full Name" />
-              <Input variant="standard" size="lg" label="Email Address" />
-            </div>
-            <Textarea variant="standard" size="lg" label="Message" rows={8} />
-            <Button variant="gradient" size="lg" className="mt-8">
-              Posalji poruku
-            </Button>
-          </form>
+          <Contact />
         </div>
       </section>
       <div className="bg-blue-gray-50/50">
