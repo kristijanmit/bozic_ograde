@@ -20,12 +20,7 @@ export default function FCounter() {
           </h2>
           <p class="leading-relaxed">Zadovoljnih musterija</p>
         </div>
-        <div class="w-1/2 p-4 sm:w-1/3">
-          <h2 class="title-font text-dark text-3xl font-medium sm:text-5xl">
-            <CountUp end={315} duration={2} redraw={true}></CountUp>
-          </h2>
-          <p class="leading-relaxed">Downloads</p>
-        </div>
+       
       </div>
     </div>
   );

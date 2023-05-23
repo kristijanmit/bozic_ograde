@@ -9,6 +9,8 @@ import {
 import { Footer } from "@/widgets/layout";
 import FCounter from "@/widgets/layout/fake-counter";
 import Quote from "@/widgets/layout/quote";
+import Galery from "@/widgets/layout/galery";
+
 
 export function Limarija() {
   return (
@@ -63,7 +65,7 @@ export function Limarija() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/gradjevinska/cover.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -76,7 +78,7 @@ export function Limarija() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/gradjevinska/13.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -100,6 +102,7 @@ export function Limarija() {
         </div>
         <FCounter />
         <Quote />
+        <Galery />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />

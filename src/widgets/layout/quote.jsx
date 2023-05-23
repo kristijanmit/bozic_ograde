@@ -18,7 +18,7 @@ export default function Quote() {
           </svg>
           <blockquote>
             <p class="text-xl font-medium text-gray-900 dark:text-white md:text-2xl">
-              "Naša firma je usmerena ka efikasnom rešavanju svih zahteva u vezi
+              "Vaša firma je usmerena ka efikasnom rešavanju svih zahteva u vezi
               proizvodnje i ugradnje limarskih elemenata. Sa posebnim fokusom na
               ravne krovove, limene ograde i ventilaciju."
             </p>

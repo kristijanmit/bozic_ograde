@@ -7,8 +7,7 @@ export default function Contact() {
         <div class="flex flex-wrap items-center">
           <div class="block w-full shrink-0 grow-0 basis-auto lg:flex lg:w-6/12 xl:w-4/12">
             <div class="map-container-2 w-full" style={{ height: "500px" }}>
-              <iframe
-                src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2833.741553553442!2d19.65685847602519!3d44.745289271071336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475bcba4d1d2ecbd%3A0x7b8c8c026bf86260!2zSWxpamUgTWFya292acSHYSwgxaBhYmFj!5e0!3m2!1sen!2srs!4v1684336372284!5m2!1sen!2srs"
                 class="left-0 top-0 h-full w-full rounded-t-lg lg:rounded-bl-lg lg:rounded-tr-none"
                 frameborder="0"
                 allowfullscreen
@@ -40,8 +39,8 @@ export default function Contact() {
                   </div>
                   <div class="ml-6 grow">
                     <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozic@bozic-ograde.com</p>
-                    <p class="text-gray-500">+1 234-567-89</p>
+                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p class="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>
@@ -68,8 +67,8 @@ export default function Contact() {
                   </div>
                   <div class="ml-6 grow">
                     <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozic@bozic-ograde.com</p>
-                    <p class="text-gray-500">+1 234-567-89</p>
+                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p class="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>
@@ -96,8 +95,8 @@ export default function Contact() {
                   </div>
                   <div class="ml-6 grow">
                     <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozic@bozic-ograde.com</p>
-                    <p class="text-gray-500">+1 234-567-89</p>
+                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p class="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>
@@ -124,8 +123,8 @@ export default function Contact() {
                   </div>
                   <div class="ml-6 grow">
                     <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozic@bozic-ograde.com</p>
-                    <p class="text-gray-500">+1 234-567-89</p>
+                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p class="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>

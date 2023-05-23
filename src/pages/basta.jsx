@@ -14,7 +14,7 @@ export function Basta() {
   return (
     <>
       <section className="relative block h-[50vh]">
-        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/a_home_bcg.jpg')] bg-cover bg-center" />
+        <div className="bg-profile-background absolute top-0 h-full w-full bg-[url('/img/basta2.jpg')] bg-cover bg-center" />
         <div className="absolute top-0 h-full w-full bg-black/75 bg-cover bg-center" />
       </section>
       <section className="relative bg-blue-gray-50/50 px-4 py-16">
@@ -23,7 +23,7 @@ export function Basta() {
             <div className="px-6">
               <div className="my-8 text-center">
                 <Typography variant="h2" color="blue-gray" className="mb-2">
-                  BASTENSKI NAMESTAJ
+                  BAŠTENSKI NAMEŠTAJ
                 </Typography>
               </div>
 
@@ -31,11 +31,7 @@ export function Basta() {
                 <div className="mt-2 flex flex-wrap justify-center">
                   <div className="flex w-full flex-col items-center px-4 lg:w-9/12">
                     <Typography className="mb-8 font-normal text-blue-gray-500">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
+                      Baštenska garnitura je dugoročno i kvalitetno rešenje za Vaše terase i bazene zbog materijala koji su korišćeni u njenoj izradi.
                     </Typography>
                   </div>
                 </div>
@@ -48,14 +44,16 @@ export function Basta() {
                   className="mb-3 font-bold"
                   color="blue-gray"
                 >
-                  Sprovodimo vaše ideje u dela
+                  Baštenski Nameštaj
                 </Typography>
                 <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Naša firma je usmerena ka efikasnom rešavanju svih zahteva u
-                  vezi proizvodnje i ugradnje limarskih elemenata. Sa posebnim
-                  fokusom na ravne krovove, limene ograde i ventilaciju sa
-                  klimatizacijom, opremljeni smo da ispunimo najrazličitije
-                  potrebe.
+                  •Konstrukcija je rađena od kvalitetnog lima, a završna obrada je plastifikacija sa nemačkom tehnologijom nanošenja praha!
+•Jastuci su izrađeni od Soft PU pene S-32, 32kg/m3.
+•”Mercis” outdoor štofovi su poznati po svom kvalitetu, zbog otpornosti na vodu i UV zrake.
+•Garnitura sadrži dvosed, dve fotelje, taburet i klub sto.
+•Po Vašoj želji možete da birate boju konstrukcije, kao i štof od kojeg želite da Vam izradimo jastuke.
+
+
                   <br />
                   <br />
                   Kombinacija naše visoke opremljenosti, produktivnosti,
@@ -71,7 +69,7 @@ export function Basta() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/basta1.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -84,7 +82,7 @@ export function Basta() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/basta2.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>

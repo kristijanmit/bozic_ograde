@@ -9,6 +9,9 @@ import {
 import { Footer } from "@/widgets/layout";
 import FCounter from "@/widgets/layout/fake-counter";
 import Quote from "@/widgets/layout/quote";
+import Galery from "@/widgets/layout/galery";
+
+
 
 export function Krov() {
   return (
@@ -65,7 +68,7 @@ export function Krov() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/krovopokrivacki/2.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -78,7 +81,7 @@ export function Krov() {
                   <CardHeader className="h-556 relative">
                     <img
                       alt="Card Image"
-                      src="/img/teamwork.jpg"
+                      src="/img/krovopokrivacki/1.jpg"
                       className="h-full w-full"
                     />
                   </CardHeader>
@@ -106,6 +109,7 @@ export function Krov() {
         </div>
         <FCounter />
         <Quote />
+        <Galery />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />
