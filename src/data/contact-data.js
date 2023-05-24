@@ -12,7 +12,7 @@ export const contactData = [
     title: "OGRADE",
     icon: TableCellsIcon,
     description:
-      "Moderan dizajn, dug životni vek, lako održavanje, kao i veliki izbor modela čine TIM ograde idealnim rešenjem bilo da je reč o stambenim ili industrijskim objektima.",
+      "Moderan dizajn, dug životni vek, lako održavanje, kao i veliki izbor modela čine Božić ograde idealnim rešenjem bilo da je reč o stambenim ili industrijskim objektima.",
   },
   {
     title: "POKRIVANJE KROVOVA",

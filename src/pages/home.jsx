@@ -33,9 +33,7 @@ export function Home() {
                 Božić ograde
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-                This is a simple example of a Landing Page you can build using
-                Material Tailwind. It features multiple components based on the
-                Tailwind CSS and Material Design by Google.
+              Višedecenijska tradicija od preko 50 godina! 
               </Typography>
             </div>
           </div>
