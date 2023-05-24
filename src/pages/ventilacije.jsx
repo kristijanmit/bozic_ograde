@@ -102,7 +102,7 @@ export function Ventilacije() {
         </div>
         <FCounter />
         <Quote />
-        <Galery />
+        <Galery galeryType="vent" />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />

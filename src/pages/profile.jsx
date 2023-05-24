@@ -11,7 +11,6 @@ import FCounter from "@/widgets/layout/fake-counter";
 import Quote from "@/widgets/layout/quote";
 import Galery from "@/widgets/layout/galery";
 
-
 export function Profile() {
   return (
     <>
@@ -112,7 +111,7 @@ export function Profile() {
         </div>
         <FCounter />
         <Quote />
-        <Galery />
+        <Galery galeryType="fance" />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />

@@ -11,8 +11,6 @@ import FCounter from "@/widgets/layout/fake-counter";
 import Quote from "@/widgets/layout/quote";
 import Galery from "@/widgets/layout/galery";
 
-
-
 export function Krov() {
   return (
     <>
@@ -109,7 +107,7 @@ export function Krov() {
         </div>
         <FCounter />
         <Quote />
-        <Galery />
+        <Galery galeryType="roof" />
       </section>
       <div className="bg-blue-gray-50/50">
         <Footer />
