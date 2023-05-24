@@ -2,11 +2,11 @@ import React from "react";
 
 export default function Quote() {
   return (
-    <section class="bg-gray-50 dark:bg-gray-800">
-      <div class="mx-auto max-w-screen-xl px-4 py-8 text-center lg:px-6 lg:py-24">
-        <figure class="mx-auto max-w-screen-md">
+    <section className="bg-gray-50 dark:bg-gray-800">
+      <div className="mx-auto max-w-screen-xl px-4 py-8 text-center lg:px-6 lg:py-24">
+        <figure className="mx-auto max-w-screen-md">
           <svg
-            class="mx-auto mb-3 h-12 text-gray-400 dark:text-gray-600"
+            className="mx-auto mb-3 h-12 text-gray-400 dark:text-gray-600"
             viewBox="0 0 24 27"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -17,18 +17,18 @@ export default function Quote() {
             ></path>
           </svg>
           <blockquote>
-            <p class="text-xl font-medium text-gray-900 dark:text-white md:text-2xl">
+            <p className="text-xl font-medium text-gray-900 dark:text-white md:text-2xl">
               "Vaša firma je usmerena ka efikasnom rešavanju svih zahteva u vezi
               proizvodnje i ugradnje limarskih elemenata. Sa posebnim fokusom na
               ravne krovove, limene ograde i ventilaciju."
             </p>
           </blockquote>
-          <figcaption class="mt-6 flex items-center justify-center space-x-3">
-            <div class="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
-              <div class="pr-3 font-medium text-gray-900 dark:text-white">
+          <figcaption className="mt-6 flex items-center justify-center space-x-3">
+            <div className="flex items-center divide-x-2 divide-gray-500 dark:divide-gray-700">
+              <div className="pr-3 font-medium text-gray-900 dark:text-white">
                 Kristijan
               </div>
-              <div class="pl-3 text-sm font-light text-gray-500 dark:text-gray-400">
+              <div className="pl-3 text-sm font-light text-gray-500 dark:text-gray-400">
                 CEO at Vortex
               </div>
             </div>

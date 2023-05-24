@@ -2,30 +2,31 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <section class="mb-35 mt-35 text-gray-800">
-      <div class="block rounded-lg bg-white shadow-lg">
-        <div class="flex flex-wrap items-center">
-          <div class="block w-full shrink-0 grow-0 basis-auto lg:flex lg:w-6/12 xl:w-4/12">
-            <div class="map-container-2 w-full" style={{ height: "500px" }}>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2833.741553553442!2d19.65685847602519!3d44.745289271071336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475bcba4d1d2ecbd%3A0x7b8c8c026bf86260!2zSWxpamUgTWFya292acSHYSwgxaBhYmFj!5e0!3m2!1sen!2srs!4v1684336372284!5m2!1sen!2srs"
-                class="left-0 top-0 h-full w-full rounded-t-lg lg:rounded-bl-lg lg:rounded-tr-none"
+    <section className="mb-35 mt-35 text-gray-800">
+      <div className="block rounded-lg bg-white shadow-lg">
+        <div className="flex flex-wrap items-center">
+          <div className="block w-full shrink-0 grow-0 basis-auto lg:flex lg:w-6/12 xl:w-4/12">
+            <div className="map-container-2 w-full" style={{ height: "500px" }}>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2833.741553553442!2d19.65685847602519!3d44.745289271071336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475bcba4d1d2ecbd%3A0x7b8c8c026bf86260!2zSWxpamUgTWFya292acSHYSwgxaBhYmFj!5e0!3m2!1sen!2srs!4v1684336372284!5m2!1sen!2srs"
+                className="left-0 top-0 h-full w-full rounded-t-lg lg:rounded-bl-lg lg:rounded-tr-none"
                 frameborder="0"
                 allowfullscreen
               ></iframe>
             </div>
           </div>
-          <div class="w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12">
-            <div class="flex flex-wrap pt-12 lg:pt-0">
-              <div class="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:w-full xl:w-6/12 xl:px-12">
-                <div class="flex items-start">
-                  <div class="shrink-0">
-                    <div class="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
+          <div className="w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12">
+            <div className="flex flex-wrap pt-12 lg:pt-0">
+              <div className="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:w-full xl:w-6/12 xl:px-12">
+                <div className="flex items-start">
+                  <div className="shrink-0">
+                    <div className="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
                       <svg
                         aria-hidden="true"
                         focusable="false"
                         data-prefix="fas"
                         data-icon="headset"
-                        class="w-5 text-white"
+                        className="w-5 text-white"
                         role="img"
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 512 512"
@@ -37,23 +38,23 @@ export default function Contact() {
                       </svg>
                     </div>
                   </div>
-                  <div class="ml-6 grow">
-                    <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
-                    <p class="text-gray-500">065 268 9365</p>
+                  <div className="ml-6 grow">
+                    <p className="mb-1 font-bold">PON - PET</p>
+                    <p className="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p className="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>
-              <div class="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:w-full xl:w-6/12 xl:px-12">
-                <div class="flex items-start">
-                  <div class="shrink-0">
-                    <div class="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
+              <div className="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:w-full xl:w-6/12 xl:px-12">
+                <div className="flex items-start">
+                  <div className="shrink-0">
+                    <div className="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
                       <svg
                         aria-hidden="true"
                         focusable="false"
                         data-prefix="fas"
                         data-icon="headset"
-                        class="w-5 text-white"
+                        className="w-5 text-white"
                         role="img"
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 512 512"
@@ -65,23 +66,23 @@ export default function Contact() {
                       </svg>
                     </div>
                   </div>
-                  <div class="ml-6 grow">
-                    <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
-                    <p class="text-gray-500">065 268 9365</p>
+                  <div className="ml-6 grow">
+                    <p className="mb-1 font-bold">PON - PET</p>
+                    <p className="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p className="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>
-              <div class="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:w-full xl:w-6/12 xl:px-12">
-                <div class="align-start flex">
-                  <div class="shrink-0">
-                    <div class="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
+              <div className="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:w-full xl:w-6/12 xl:px-12">
+                <div className="align-start flex">
+                  <div className="shrink-0">
+                    <div className="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
                       <svg
                         aria-hidden="true"
                         focusable="false"
                         data-prefix="fas"
                         data-icon="headset"
-                        class="w-5 text-white"
+                        className="w-5 text-white"
                         role="img"
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 512 512"
@@ -93,23 +94,23 @@ export default function Contact() {
                       </svg>
                     </div>
                   </div>
-                  <div class="ml-6 grow">
-                    <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
-                    <p class="text-gray-500">065 268 9365</p>
+                  <div className="ml-6 grow">
+                    <p className="mb-1 font-bold">PON - PET</p>
+                    <p className="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p className="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>
-              <div class="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:mb-0 lg:w-full xl:w-6/12 xl:px-12">
-                <div class="align-start flex">
-                  <div class="shrink-0">
-                    <div class="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
+              <div className="mb-12 w-full shrink-0 grow-0 basis-auto px-3 md:w-6/12 md:px-6 lg:mb-0 lg:w-full xl:w-6/12 xl:px-12">
+                <div className="align-start flex">
+                  <div className="shrink-0">
+                    <div className="flex h-14 w-14 items-center justify-center rounded-md bg-gray-600 p-4 shadow-md">
                       <svg
                         aria-hidden="true"
                         focusable="false"
                         data-prefix="fas"
                         data-icon="headset"
-                        class="w-5 text-white"
+                        className="w-5 text-white"
                         role="img"
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 512 512"
@@ -121,10 +122,10 @@ export default function Contact() {
                       </svg>
                     </div>
                   </div>
-                  <div class="ml-6 grow">
-                    <p class="mb-1 font-bold">PON - PET</p>
-                    <p class="text-gray-500">bozicbobanpop@gmail.com</p>
-                    <p class="text-gray-500">065 268 9365</p>
+                  <div className="ml-6 grow">
+                    <p className="mb-1 font-bold">PON - PET</p>
+                    <p className="text-gray-500">bozicbobanpop@gmail.com</p>
+                    <p className="text-gray-500">065 268 9365</p>
                   </div>
                 </div>
               </div>
