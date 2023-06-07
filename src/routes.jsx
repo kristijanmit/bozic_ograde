@@ -40,12 +40,7 @@ export const routes = [
     element: <Limarija />,
     drop: true,
   },
-  {
-    name: "Kasetni sistemi",
-    path: "/kasete",
-    element: <Kasete />,
-    drop: true,
-  },
+
   {
     name: "Ventilacija",
     path: "/ventilacija",
